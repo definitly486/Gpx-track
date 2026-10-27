@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="zepp2gpx">
+  <trk>
+    <name>Workout 2026-09-13_094451</name>
+    <trkseg>
+      <trkpt lat="55.7730817" lon="37.2859650">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:50Z</time>
+      </trkpt>
+      <trkpt lat="55.7730826" lon="37.2859630">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:51Z</time>
+      </trkpt>
+      <trkpt lat="55.7730833" lon="37.2859600">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:52Z</time>
+      </trkpt>
+      <trkpt lat="55.7730860" lon="37.2859584">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:53Z</time>
+      </trkpt>
+      <trkpt lat="55.7730873" lon="37.2859597">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:54Z</time>
+      </trkpt>
+      <trkpt lat="55.7730883" lon="37.2859623">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:55Z</time>
+      </trkpt>
+      <trkpt lat="55.7730883" lon="37.2859633">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:56Z</time>
+      </trkpt>
+      <trkpt lat="55.7730883" lon="37.2859653">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:57Z</time>
+      </trkpt>
+      <trkpt lat="55.7730873" lon="37.2859663">
+        <ele>92.8</ele>
+        <time>2026-09-13T06:45:58Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
